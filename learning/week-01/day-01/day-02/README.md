@@ -57,4 +57,4 @@ Structured Output = Organized Data
 
 ## Day 2 Status
 
-Completed [x]
+[X]Completed
