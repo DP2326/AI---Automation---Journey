@@ -56,5 +56,4 @@ Hallucination = Made-up Information
 Structured Output = Organized Data
 
 ## Day 2 Status
-
-[X]Completed
+- [x]Completed
